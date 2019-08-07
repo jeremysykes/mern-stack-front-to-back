@@ -1,2 +1,2 @@
 # mern-stack-front-to-back
-The Complete MERN Stack Front to Back Course
+A MERN stack social network
